@@ -1,2 +1,2 @@
-# codewars
-training with codewars catas
+# code training
+short exercises for training
